@@ -1,0 +1,269 @@
+{
+    "basics": {
+      "name": "Bryan Villamil Acevedo",
+      "label": "Programmer - Frontend",
+      "image": "https://avatars.githubusercontent.com/u/7725926?s=400&u=3780bd3cad40581f26112ec2eef1b210a3a589fc&v=4",
+      "email": "bryanvillamilacevedo@gmail.com",
+      "phone": "3116448934",
+      "url": "https://johndoe.com",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl nec ultricies lacinia, nunc nisl aliquet nunc, vitae aliquam nisl nunc eget nunc. Sed euismod, nisl nec ultricies lacinia, nunc nisl aliquet nunc, vitae aliquam nisl nunc eget nunc.",
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "Medellin",
+        "countryCode": "CO",
+        "region": "Antioquia"
+      },
+      "profiles": [{
+        "network": "X",
+        "username": "bryan",
+        "url": "https://twitter.com/john"
+      },
+      {
+        "network": "GitHub",
+        "username": "bryanvillamil",
+        "url": "https://twitter.com/john"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "bryanv",
+        "url": "https://twitter.com/john"
+      }]
+    },
+    "work": [{
+      "name": "Pragma",
+      "position": "Lider Chapter Frontend",
+      "url": "https://company.com",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl nec ultricies lacinia, nunc nisl aliquet nunc, vitae aliquam nisl nunc eget nunc. Sed euismod, nisl nec ultricies lacinia, nunc nisl aliquet nunc, vitae aliquam nisl nunc eget nunc.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Sancrisoft",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl nec ultricies lacinia, nunc nisl aliquet nunc, vitae aliquam nisl nunc eget nunc. Sed euismod, nisl nec ultricies lacinia, nunc nisl aliquet nunc, vitae aliquam nisl nunc eget nunc.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Rainbow Tree",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl nec ultricies lacinia, nunc nisl aliquet nunc, vitae aliquam nisl nunc eget nunc. Sed euismod, nisl nec ultricies lacinia, nunc nisl aliquet nunc, vitae aliquam nisl nunc eget nunc.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Roiback",
+      "position": "Desarrollador Web",
+      "url": "https://company.com",
+      "startDate": "2015-04-12",
+      "endDate": "2017-10-20",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl nec ultricies lacinia, nunc nisl aliquet nunc, vitae aliquam nisl nunc eget nunc. Sed euismod, nisl nec ultricies lacinia, nunc nisl aliquet nunc, vitae aliquam nisl nunc eget nunc.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "Desarrollo Web",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "Astro",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "Javascript",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      }
+    ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Proyecto 1",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "Historia 1...", 
+      "highlights": [
+        "Won award at AIHacks 2023",
+        "multilanguage",
+        "responsive"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Proyecto 2",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2023",
+        "multilanguage",
+        "responsive"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Proyecto 3",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": false,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2023",
+        "multilanguage",
+        "responsive"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Proyecto 4",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2023",
+        "multilanguage",
+        "responsive"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Proyecto 5",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": false,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2023",
+        "multilanguage",
+        "responsive"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Proyecto 6",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2023",
+        "multilanguage",
+        "responsive"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
